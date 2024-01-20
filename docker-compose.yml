@@ -2,9 +2,6 @@ version: "3"
 
 services:
   db:
-    build:
-      context: .
-      dockerfile: ./11.2.0.2/Dockerfile.xe
     image: oracle/database:11.2.0.2-xe
     container_name: 11g
     ports:
