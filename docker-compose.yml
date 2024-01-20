@@ -10,3 +10,5 @@ services:
     shm_size: 1G
     environment:
       - ORACLE_PWD=pass
+      - NLS_LANG=Japanese_Japan.UTF8
+      - TZ=Asia/Tokyo
