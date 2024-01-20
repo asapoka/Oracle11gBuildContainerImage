@@ -2,7 +2,7 @@
 
 ```bash
 git clone
-cd oracle11gBuildContainerImage
+cd Oracle11gBuildContainerImage
 . setup.bash
 ```
 
