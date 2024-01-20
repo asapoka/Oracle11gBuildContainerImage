@@ -1,7 +1,7 @@
 # Build Oracle11 container image
 
 ```bash
-git clone　https://github.com/asapoka/Oracle11gBuildContainerImage.git　&& \
+git clone https://github.com/asapoka/Oracle11gBuildContainerImage.git && \
 cd Oracle11gBuildContainerImage && \
 . setup.bash
 ```
