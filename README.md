@@ -1,7 +1,7 @@
 # Build Oracle Database 11g Express Edition container image
 
 ```bash
-git clone https://github.com/asapoka/Oracle11gBuildContainerImage.git && \
+git clone https://github.com/asapoka/Oracle11gImage.git && \
 cd Oracle11gBuildContainerImage && \
 bash setup.bash
 ```
