@@ -2,7 +2,7 @@
 
 ```bash
 git clone https://github.com/asapoka/Oracle11gImage.git && \
-cd Oracle11gBuildContainerImage && \
+cd Oracle11gImage && \
 bash setup.bash
 ```
 
