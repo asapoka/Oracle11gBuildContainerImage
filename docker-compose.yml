@@ -4,6 +4,10 @@ services:
   db:
     image: oracle/database:11.2.0.2-xe
     container_name: 11g
+    volumes:
+      - type: bind
+        source: ./setup
+        target: /u01/app/oracle/scripts/setup
     ports:
       - 1521:1521
       - 5500:5500
